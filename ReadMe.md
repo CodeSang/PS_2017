@@ -1,7 +1,7 @@
 ﻿#Koreatech IPSL C++ Study
 
 **SangYub**
-*Start 2017 / 03/ 30*
+*Start 2017 / 03/ 29*
 
 ```
 스터디에 사용된 예제 코드 입니다.
